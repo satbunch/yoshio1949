@@ -1,13 +1,13 @@
 ### Hi there 👋
 <p align="left">
   <a href="https://github.com/yoshio1949/yoshio1949/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+    <img src="https://komarev.com/ghpvc/?username=yoshio1949t" alt="yoshio1949" />
   </a>
   <a href="https://twitter.com/yoshio_buncho">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/yoshio_buncho?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/yoshio1949">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/yoshio1949?label=follow&logo=github&style=flat" />
   </a>
 </p>
 <!--
