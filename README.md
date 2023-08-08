@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+### I'm yoshio1949! I'm newbie!
+
 <p align="left">
   <a href="https://github.com/yoshio1949/yoshio1949/">
     <img src="https://komarev.com/ghpvc/?username=yoshio1949t" alt="yoshio1949" />
@@ -11,6 +13,7 @@
   </a>
 </p>
 
+## History
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshio1949&theme=vue)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoshio1949&show_icons=true)
