@@ -1,5 +1,4 @@
-## Hi there 👋
-### I'm yoshio1949! I'm newbie!
+## Hi there 👋 I'm yoshio1949! I'm newbie!
 
 <p align="left">
   <a href="https://github.com/yoshio1949/yoshio1949/">
